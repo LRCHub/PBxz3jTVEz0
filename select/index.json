@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "KIRA☆Power",
+  "base_artist": "わか・ふうり・すなお from STAR☆ANIS",
+  "createdAt": "2025-12-24T08:49:28.520808Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "KIRA☆Power",
+      "artist": "わか・ふうり・すなお from STAR☆ANIS",
+      "has_synced": true,
+      "path": "select/01_KIRA☆Power_わか・ふうり・すなお_from_STAR☆ANIS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KIRA☆Power - ～ドリームアカデミーVer.～",
+      "artist": "ふうり・ゆな・えり from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/02_KIRA☆Power_-_~ドリームアカデミーVer.~_ふうり・ゆな・えり_from_STAR☆ANIS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KIRA☆Power ～ドリームアカデミーVer.～",
+      "artist": "ふうり・ゆな・えり from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/03_KIRA☆Power_~ドリームアカデミーVer.~_ふうり・ゆな・えり_from_STAR☆ANIS.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KIRA☆Power (TV-size)",
+      "artist": "わか・ふうり・すなお from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/04_KIRA☆Power_(TV-size)_わか・ふうり・すなお_from_STAR☆ANIS.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KIRA☆Power ～ヒカリソロ Ver.～",
+      "artist": "ゆにこ",
+      "has_synced": false,
+      "path": "select/05_KIRA☆Power_~ヒカリソロ_Ver.~_ゆにこ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "KIRA☆Power ～いちご & セイラ Ver.～",
+      "artist": "わか・ふうり from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/06_KIRA☆Power_~いちご_&_セイラ_Ver.~_わか・ふうり_from_STAR☆ANIS.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "KIRA Power (Hikari version) (Short Size)",
+      "artist": "Yuniko",
+      "has_synced": false,
+      "path": "select/07_KIRA_Power_(Hikari_version)_(Short_Size)_Yuniko.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KIRA☆Power",
+      "artist": "STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/pl_01_KIRA☆Power_STAR☆ANIS.txt"
+    }
+  ]
+}
